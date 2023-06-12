@@ -41,3 +41,12 @@ Se você encontrar algum problema durante a instalação ou uso do OpenVPN, aqui
 ## Contribuição
 
 Se você quiser contribuir para este projeto, sinta-se à vontade para enviar um pull request. Valorizamos seu feedback e sugestões para melhorar a documentação e tornar o processo de configuração do OpenVPN mais fácil para todos.
+
+## Documentação
+
+https://docs.google.com/document/d/1BfJ_tLZQK3i6t0NAmMl51EiETX5c7IjGkkIYFt-P_Fk/edit?usp=sharing
+
+## Formulário
+
+Responda nosso formulário com base no que você absorveu:
+https://docs.google.com/forms/d/e/1FAIpQLScnzcacMkBGrQBdGvfzRu-sYfMbV-O8nkNwoJRypW3Kyut-AA/viewform?usp=sf_link
